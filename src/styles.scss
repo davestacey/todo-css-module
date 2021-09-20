@@ -1,0 +1,26 @@
+body {
+  background-color: #fafafa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  font-family: sans-serif;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  // padding-top: 20vh
+}
+
+.app-title {
+  margin-bottom: 1rem;
+}
+
+
+
